@@ -48,4 +48,4 @@ spec:
     - petstore
  dependsOn:
     - component:default/pooja-service
-#  system: yournamehere-system
+  system: pooja-system
