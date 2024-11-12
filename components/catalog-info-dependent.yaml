@@ -46,6 +46,6 @@ spec:
     - spotify
   providesApis:
     - petstore
- dependsOn:
+  dependsOn:
     - component:default/pooja-service
   system: pooja-system
